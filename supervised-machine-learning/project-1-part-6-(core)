@@ -70,7 +70,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 310,
+      "execution_count": null,
       "metadata": {
         "id": "LcFIfDR6XbuT"
       },
@@ -113,7 +113,7 @@
         "id": "INyhsKQQYjFn",
         "outputId": "69a1487b-1e5f-4823-d9bf-3151762b9511"
       },
-      "execution_count": 311,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -139,7 +139,7 @@
         "id": "o4mV6YY9ZFK5",
         "outputId": "8026521d-5437-416c-bf11-f57dab996188"
       },
-      "execution_count": 312,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -404,7 +404,7 @@
         "id": "j6I6JFiQaA0E",
         "outputId": "7bbfd5b7-301a-40df-b1d5-b2a2d74627ae"
       },
-      "execution_count": 313,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -446,7 +446,7 @@
         "id": "TU6YoaRoaNEg",
         "outputId": "5c3b3aa5-b8a0-487a-a31d-1d0ba1f6917d"
       },
-      "execution_count": 314,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -474,7 +474,7 @@
         "id": "SSgG1F35amCi",
         "outputId": "1d9f7786-74a4-4574-e6f7-e13c8eb96e2b"
       },
-      "execution_count": 315,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -590,7 +590,7 @@
         "id": "vwFcle9NdyGT",
         "outputId": "918189a2-757d-4dda-8055-5a6bb00bfd9d"
       },
-      "execution_count": 316,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -870,7 +870,7 @@
       "metadata": {
         "id": "33KpOzrqgPSp"
       },
-      "execution_count": 317,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -897,7 +897,7 @@
         "id": "uHWWHCAPgYTv",
         "outputId": "df946094-e1dd-4967-fd29-3610b1835683"
       },
-      "execution_count": 318,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1101,7 +1101,7 @@
         "# Item Weight\n",
         "check_column(df, 'Item Weight')"
       ],
-      "execution_count": 319,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1325,7 +1325,7 @@
         "# Item Fat Content\n",
         "check_column(df, 'Item Fat Content')"
       ],
-      "execution_count": 320,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1489,7 +1489,7 @@
         "id": "2_LMOOVjkMwW",
         "outputId": "6b1ea2a8-6764-4d8f-8232-27653f556de8"
       },
-      "execution_count": 321,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1569,7 +1569,7 @@
         "# Item Visibility\n",
         "check_column(df, 'Item Visibility')"
       ],
-      "execution_count": 322,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1793,7 +1793,7 @@
         "# Item Type\n",
         "check_column(df, 'Item Type')"
       ],
-      "execution_count": 323,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -2021,7 +2021,7 @@
         "# Item MRP\n",
         "check_column(df, 'Item MRP')"
       ],
-      "execution_count": 324,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -2245,7 +2245,7 @@
         "# Outlet Identifier\n",
         "check_column(df, 'Outlet Identifier')"
       ],
-      "execution_count": 325,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -2443,7 +2443,7 @@
         "# Outlet Establishment Year\n",
         "check_column(df, 'Outlet Establishment Year')"
       ],
-      "execution_count": 326,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -2656,7 +2656,7 @@
         "# Outlet Size\n",
         "check_column(df, 'Outlet Size')"
       ],
-      "execution_count": 327,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -2819,7 +2819,7 @@
         "# Outlet Location Type\n",
         "check_column(df, 'Outlet Location Type')"
       ],
-      "execution_count": 328,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -2982,7 +2982,7 @@
         "# Outlet Type\n",
         "check_column(df, 'Outlet Type')"
       ],
-      "execution_count": 329,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -3150,7 +3150,7 @@
         "# Item Outlet Sales\n",
         "check_column(df, 'Item Outlet Sales')"
       ],
-      "execution_count": 330,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -3372,7 +3372,7 @@
       "metadata": {
         "id": "jbFBswbRdtG1"
       },
-      "execution_count": 331,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -3389,7 +3389,7 @@
         "id": "EBWpuKTzmEj5",
         "outputId": "4d13113e-eafb-4efd-cb6a-7e97f0271458"
       },
-      "execution_count": 332,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -3635,7 +3635,7 @@
         "id": "ui0ZeUiwmwuU",
         "outputId": "d01e3f63-165f-46f5-ff53-607ec64ade2a"
       },
-      "execution_count": 333,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -3665,7 +3665,7 @@
         "id": "MSj9qYKOqbfM",
         "outputId": "3ac9155e-5d90-4061-fb27-ca8330037284"
       },
-      "execution_count": 334,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -3876,7 +3876,7 @@
         "id": "Hc7ijok2q4kP",
         "outputId": "b6f9563d-4f0e-44ce-9459-4ae7be1f1e0f"
       },
-      "execution_count": 335,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -4323,7 +4323,7 @@
         "id": "5sFws1hNrL6S",
         "outputId": "8bf47a99-f8de-4689-88fd-fec6de7ff4bd"
       },
-      "execution_count": 336,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -4770,7 +4770,7 @@
         "id": "JHAS4YdVrRAq",
         "outputId": "895159df-4e8c-4137-af24-6e5592e7be62"
       },
-      "execution_count": 337,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -5219,7 +5219,7 @@
         "id": "U9BXUU9QrXEg",
         "outputId": "59027e6c-667b-4108-9a24-ce6c21faf4de"
       },
-      "execution_count": 338,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -5261,7 +5261,7 @@
         "id": "J2dkNZC_uqzt",
         "outputId": "ac4144a9-6271-4130-c0e2-6d5f9678bf8c"
       },
-      "execution_count": 339,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -5290,7 +5290,7 @@
         "id": "jxgpM88Iwoxx",
         "outputId": "2be0f37f-f008-425e-abc2-925b66127412"
       },
-      "execution_count": 340,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -5737,7 +5737,7 @@
         "id": "WMV3qsKevn9t",
         "outputId": "e82efed3-1b96-4f5b-8483-91fb0a96ba52"
       },
-      "execution_count": 341,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -6184,7 +6184,7 @@
         "id": "qxkUZfzWwl81",
         "outputId": "43d97b80-2dd7-4dee-a1ec-7af099743a8c"
       },
-      "execution_count": 342,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -6636,7 +6636,7 @@
         "id": "guom7ijsw1Dt",
         "outputId": "59f39640-94f2-495f-8193-ca228a4669da"
       },
-      "execution_count": 343,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -6677,7 +6677,7 @@
         },
         "outputId": "86f77577-e48d-4f48-95d4-2f045c1c3ba9"
       },
-      "execution_count": 344,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -6706,7 +6706,7 @@
         "id": "q9_YsO8dJDyb",
         "outputId": "36b3f3d9-e309-476c-b040-37b155dde587"
       },
-      "execution_count": 345,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -7151,7 +7151,7 @@
         "id": "dtFguycZIktZ",
         "outputId": "f043f13d-d8fa-43cd-93a6-7120d54ce5a8"
       },
-      "execution_count": 346,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -7187,7 +7187,7 @@
         "id": "hYDiF-TMHpUM",
         "outputId": "97484c0a-53d0-4ea7-b95f-20155e6eaf9c"
       },
-      "execution_count": 347,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -7643,7 +7643,7 @@
         "id": "MwkFLVZsKF12",
         "outputId": "4e65db21-40fb-40cd-8048-b887c344cb68"
       },
-      "execution_count": 348,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -8090,7 +8090,7 @@
         "id": "YXkBbJHwJm1c",
         "outputId": "54378242-5e10-46b1-8e56-8a3fd9d7162e"
       },
-      "execution_count": 349,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -8566,7 +8566,7 @@
         "id": "UhrQGduyKOna",
         "outputId": "73abb07e-2852-4048-ab78-1f8d6d8d0655"
       },
-      "execution_count": 350,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -8605,7 +8605,7 @@
         "id": "RXJoZwM1KQoo",
         "outputId": "86950e23-b9d5-4c2d-ad87-69abb6560848"
       },
-      "execution_count": 351,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -9172,7 +9172,7 @@
         "id": "PbrDIkJnKaLK",
         "outputId": "de1b0cd1-52fd-4763-ef1d-60b8205da432"
       },
-      "execution_count": 352,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -9740,7 +9740,7 @@
         "id": "J4EUOtGjKdF2",
         "outputId": "9414ec37-e7b2-48cc-e686-935c9143b025"
       },
-      "execution_count": 353,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -10314,7 +10314,7 @@
           "height": 478
         }
       },
-      "execution_count": 354,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -10936,7 +10936,7 @@
       "metadata": {
         "id": "hE3yRDkFbyCW"
       },
-      "execution_count": 355,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -10956,7 +10956,7 @@
       "metadata": {
         "id": "9RAytvKwpHbA"
       },
-      "execution_count": 356,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -10968,7 +10968,7 @@
       "metadata": {
         "id": "z0lnrpukZi_k"
       },
-      "execution_count": 357,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -10980,7 +10980,7 @@
       "metadata": {
         "id": "j7wim7CrZ_4f"
       },
-      "execution_count": 358,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -10992,7 +10992,7 @@
       "metadata": {
         "id": "7JcQVEcCc6Vt"
       },
-      "execution_count": 359,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -11022,7 +11022,7 @@
         "id": "y9kOOVM7elc2",
         "outputId": "7516437e-2283-4b81-ecf6-65461e883f67"
       },
-      "execution_count": 360,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -11467,7 +11467,7 @@
         "id": "EAC2gmAbgBDm",
         "outputId": "486ac22f-2e49-43e0-b644-ea39293888a6"
       },
-      "execution_count": 361,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -11912,7 +11912,7 @@
         "id": "cmJCJjt8gRl2",
         "outputId": "b77221d9-2ff5-4d80-d127-d14566565f7b"
       },
-      "execution_count": 362,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -12005,7 +12005,7 @@
         "print(f\"Best parameters found: {best_params}\")\n",
         "print(f\"Best MSE on training data (cross-validated): {best_score:,.3f}\")"
       ],
-      "execution_count": 363,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -12047,7 +12047,7 @@
         "print(\"\\nEvaluating Tuned Random Forest Model:\")\n",
         "evaluate_regression(final_rf_model, X_train_tr, y_train, X_test_tr, y_test)"
       ],
-      "execution_count": 364,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
